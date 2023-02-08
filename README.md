@@ -1,5 +1,5 @@
 
-CRUD MVC usando o novo .NET6 com visual studio 2022. 
+CRUD MVC usando .NET6 com visual studio 2022. 
 
 
 Pacotes instalados
